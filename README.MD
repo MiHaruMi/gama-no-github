@@ -1,0 +1,2 @@
+A proposta do curso é interessante, porém, estou tendo dificuldades em acompanhar algumas aulas, vejo uma carencia de passo a passo para quem nunca nem abriu um editor de texto antes.
+Os conteúdos poderiam ser mais destrinchados e organizados em algumas aulas, como a do GIT por exemplo.
